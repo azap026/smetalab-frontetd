@@ -1,7 +1,6 @@
+import type { BillingInterval } from '@smeta/contracts';
 import { useTranslations } from 'next-intl';
 import React from 'react';
-
-import type { BillingInterval } from '@/types/Subscription';
 
 export const PricingCard = (props: {
   planId: string;

@@ -1,8 +1,6 @@
-import type { LocalePrefix } from 'node_modules/next-intl/dist/types/src/routing/types';
+import { BILLING_INTERVAL, PLAN_ID, type PricingPlan } from '@smeta/contracts';
 
-import { BILLING_INTERVAL, type PricingPlan } from '@/types/Subscription';
-
-const localePrefix: LocalePrefix = 'as-needed';
+export { BILLING_INTERVAL, PLAN_ID, type PricingPlan };
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
@@ -15,16 +13,10 @@ export const AppConfig = {
     { id: 'fr', name: 'Français' },
   ],
   defaultLocale: 'en',
-  localePrefix,
+  localePrefix: 'as-needed' as const,
 };
 
 export const AllLocales = AppConfig.locales.map(locale => locale.id);
-
-export const PLAN_ID = {
-  FREE: 'free',
-  PREMIUM: 'premium',
-  ENTERPRISE: 'enterprise',
-} as const;
 
 export const PricingPlanList: Record<string, PricingPlan> = {
   [PLAN_ID.FREE]: {
