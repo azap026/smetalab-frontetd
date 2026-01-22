@@ -1,0 +1,166 @@
+{
+  "Index": {
+    "meta_title": "Smeta Lab — идеальная платформа для создания и масштабирования вашего бизнеса.",
+    "meta_description": "Шаблон лендинга для Smeta Lab с открытым исходным кодом, созданный с использованием React, TypeScript, Shadcn UI и Tailwind CSS."
+  },
+  "Navbar": {
+    "sign_in": "Войти",
+    "sign_up": "Регистрация",
+    "product": "Продукт",
+    "docs": "Документация",
+    "blog": "Блог",
+    "community": "Сообщество",
+    "company": "Компания"
+  },
+  "Hero": {
+    "follow_twitter": "Подписаться на @Ixartz в Twitter",
+    "title": "Идеальная <important>Smeta Lab</important> для легкого создания и масштабирования бизнеса.",
+    "description": "Бесплатный шаблон лендинга с открытым исходным кодом для Smeta Lab, созданный на React, TypeScript, Shadcn UI и Tailwind CSS.",
+    "primary_button": "Начать",
+    "secondary_button": "Звезда на GitHub"
+  },
+  "Sponsors": {
+    "title": "При поддержке"
+  },
+  "Features": {
+    "section_subtitle": "Возможности",
+    "section_title": "Раскройте весь потенциал Smeta Lab",
+    "section_description": "Бесплатный шаблон лендинга с открытым исходным кодом для Smeta Lab, созданный на React, TypeScript, Shadcn UI и Tailwind CSS.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "Бесплатный шаблон лендинга с открытым исходным кодом для Smeta Lab, созданный на React, TypeScript, Shadcn UI и Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Тарифы",
+    "section_title": "Раскройте весь потенциал Smeta Lab",
+    "section_description": "Бесплатный шаблон лендинга с открытым исходным кодом для Smeta Lab, созданный на React, TypeScript, Shadcn UI и Tailwind CSS.",
+    "button_text": "Начать"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Бесплатный",
+    "premium_plan_name": "Премиум",
+    "enterprise_plan_name": "Корпоративный",
+    "free_plan_description": "Для частных лиц",
+    "premium_plan_description": "Для небольших команд",
+    "enterprise_plan_description": "Для лидеров индустрии",
+    "feature_team_member": "Участников команды: {number}",
+    "feature_website": "Сайтов: {number}",
+    "feature_storage": "Хранилище: {number} ГБ",
+    "feature_transfer": "Трафик: {number} ТБ",
+    "feature_email_support": "Поддержка по Email",
+    "plan_interval_month": "мес",
+    "plan_interval_year": "год",
+    "next_renew_date": "Ваша подписка обновится {date}"
+  },
+  "FAQ": {
+    "question": "Часто задаваемый вопрос?",
+    "answer": "Здесь будет ответ на часто задаваемый вопрос. Мы постоянно обновляем нашу базу знаний, чтобы помочь вам быстрее разобраться в системе."
+  },
+  "CTA": {
+    "title": "Вы готовы?",
+    "description": "Присоединяйтесь к тысячам пользователей Smeta Lab уже сегодня.",
+    "button_text": "Звезда на GitHub"
+  },
+  "Footer": {
+    "product": "Продукт",
+    "docs": "Документация",
+    "blog": "Блог",
+    "community": "Сообщество",
+    "company": "Компания",
+    "terms_of_service": "Условия использования",
+    "privacy_policy": "Политика конфиденциальности",
+    "designed_by": "Разработано <author></author>."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "У вас недостаточно прав для выполнения этого действия"
+  },
+  "SignIn": {
+    "meta_title": "Вход",
+    "meta_description": "Войдите в свой аккаунт быстро и удобно."
+  },
+  "SignUp": {
+    "meta_title": "Регистрация",
+    "meta_description": "Создайте аккаунт за пару кликов через нашу интуитивную систему регистрации."
+  },
+  "DashboardLayout": {
+    "home": "Главная",
+    "todos": "Задачи",
+    "members": "Участники",
+    "billing": "Биллинг",
+    "settings": "Настройки"
+  },
+  "Dashboard": {
+    "meta_title": "Панель управления Smeta Lab",
+    "meta_description": "Бесплатный шаблон лендинга с открытым исходным кодом для Smeta Lab, созданный на Next.js, TypeScript, Shadcn UI и Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Панель управления",
+    "title_bar_description": "Добро пожастояние в вашу панель управления",
+    "message_state_title": "Давайте начнем",
+    "message_state_description": "Вы можете настроить эту страницу, отредактировав файл в <code>dashboard/page.tsx</code>",
+    "message_state_button": "Звезда на GitHub",
+    "message_state_alternative": "Нужно больше возможностей? Попробуйте <url></url>."
+  },
+  "UserProfile": {
+    "title_bar": "Профиль пользователя",
+    "title_bar_description": "Просмотр и управление вашим профилем"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Управление организацией",
+    "title_bar_description": "Управление вашей организацией"
+  },
+  "Billing": {
+    "title_bar": "Биллинг",
+    "title_bar_description": "Управление вашим биллингом и подпиской",
+    "current_section_title": "Текущий тариф",
+    "current_section_description": "Выберите тарифный план, который лучше всего подходит для ваших нужд",
+    "manage_subscription_button": "Управление подпиской"
+  },
+  "BillingOptions": {
+    "current_plan": "Текущий тариф",
+    "upgrade_plan": "Начать"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Подтверждение оплаты",
+    "message_state_title": "Оплата прошла успешно",
+    "message_state_description": "Ваш платеж был успешно обработан. Спасибо за покупку!",
+    "message_state_button": "Вернуться к биллингу"
+  },
+  "DataTable": {
+    "no_results": "Нет результатов."
+  },
+  "Todos": {
+    "title_bar": "Список задач",
+    "title_bar_description": "Просмотр и управление списком задач",
+    "add_todo_button": "Новая задача"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Открыть меню",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "title_header": "Заголовок",
+    "message_header": "Сообщение",
+    "created_at_header": "Дата создания"
+  },
+  "AddTodo": {
+    "title_bar": "Добавить задачу",
+    "add_todo_section_title": "Создать новую задачу",
+    "add_todo_section_description": "Заполните форму ниже, чтобы создать новую задачу"
+  },
+  "EditTodo": {
+    "title_bar": "Редактировать задачу",
+    "edit_todo_section_title": "Изменить задачу",
+    "edit_todo_section_description": "Заполните форму ниже, чтобы отредактировать задачу"
+  },
+  "TodoForm": {
+    "title_label": "Заголовок",
+    "title_description": "Введите описательный заголовок для вашей задачи.",
+    "message_title": "Сообщение",
+    "message_description": "Введите подробное описание задачи.",
+    "submit_button": "Отправить"
+  }
+}
